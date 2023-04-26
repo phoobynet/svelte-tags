@@ -10,3 +10,6 @@ See the `+page.svelte` file for an example use.
 
 ## Demo
 
+https://svelte-tags.vercel.app/
+
+
